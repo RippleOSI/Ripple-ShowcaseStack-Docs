@@ -31,7 +31,7 @@ Get api initialise
 {% include image.html file="jekyll.png" url="http://jekyllrb.com" alt="Jekyll" caption="This is a sample caption" %}
 
 
-{% include image.html file="images/qewd/start_Swagger.PNG" alt="Jekyll" caption="This is a sample caption" %}
+{% include image.html file="/qewd/start_Swagger.PNG" alt="Jekyll" caption="This is a sample caption" %}
 
 Click Try it Out
 

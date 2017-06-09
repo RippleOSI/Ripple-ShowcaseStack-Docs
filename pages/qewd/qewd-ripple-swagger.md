@@ -21,7 +21,7 @@ There are 5 steps to using Swagger
 
 #1 Get api/initialise
 
-{% include image.html file="/img/start_Swagger.PNG" alt="Start Swagger" caption="This is the start point" %"}
+
 
 {% include image.html file="jekyll.png" url="http://jekyllrb.com" alt="Jekyll" caption="This is a sample caption" %"}
 

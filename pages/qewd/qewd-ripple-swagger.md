@@ -21,44 +21,45 @@ There are 5 steps to using Swagger
 
 Get api initialise
 
-```liquid
-{% raw %}
-{% include image.html file="jekyll.png" url="http://jekyllrb.com" alt="Jekyll" caption="This is a sample caption" %"}
-{% endraw %}
-```
 
-
-{% include image.html file="jekyll.png" url="http://jekyllrb.com" alt="Jekyll" caption="This is a sample caption" %}
 
 
 {% include image.html file="/qewd/start_Swagger.PNG" alt="Jekyll" caption="This is a sample caption" %}
 
 Click Try it Out
+{% include image.html file="/qewd/getInitialise.PNG" alt="Jekyll" caption="This is a sample caption" %}
 
 Click Execute
+{% include image.html file="/qewd/getInitialiseExecute.PNG" alt="Jekyll" caption="This is a sample caption" %}
 
 Copy the Response Body / token
+{% include image.html file="/qewd/getInitialiseToken.PNG" alt="Jekyll" caption="This is a sample caption" %}
 
 Click Authorize
+{% include image.html file="/qewd/ClickGreenAuthorise.PNG" alt="Jekyll" caption="This is a sample caption" %}
 
 Insert secure token
+{% include image.html file="/qewd/InsertAuthToken.PNG" alt="Jekyll" caption="This is a sample caption" %}
 
 Click Authorise
+{% include image.html file="/qewd/ClickGreenAuthorise.PNG" alt="Jekyll" caption="This is a sample caption" %}
 
 Authorized appears
-
+{% include image.html file="/qewd/AuthorisedView.PNG" alt="Jekyll" caption="This is a sample caption" %}
 
 You will now see secure APIs and you can proceed to use the rest of the APIs 
 
 eg 
 GET   /api/patients/{patientId}/allergies
-
+{% include image.html file="/qewd/getAPIPtsAllergy.PNG" alt="Jekyll" caption="This is a sample caption" %}
 Click Try It Out
 
 Patient ID for Demo is  9999999000
 
-Click Execute
+{% include image.html file="/qewd/getAPIPtsAllergy_Pt999.PNG" alt="Jekyll" caption="This is a sample caption" %}
 
+Click Execute
+{% include image.html file="/qewd/getAPIPtsAllergy_Pt999_Results.PNG" alt="Jekyll" caption="This is a sample caption" %}
 etc
 etc
 

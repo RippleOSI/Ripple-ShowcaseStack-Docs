@@ -21,9 +21,11 @@ There are 5 steps to using Swagger
 
 Get api initialise
 
-
+```liquid
+{% raw %}
 {% include image.html file="jekyll.png" url="http://jekyllrb.com" alt="Jekyll" caption="This is a sample caption" %"}
-
+{% endraw %}
+```
 
 
 Click Try it Out

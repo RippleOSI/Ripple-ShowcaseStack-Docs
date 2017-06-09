@@ -19,7 +19,7 @@ Note that to help educate you in the Ripple stack, we follow the pattern the app
 
 There are 5 steps to using Swagger
 
-#1 Get api/initialise
+Get api initialise
 
 
 

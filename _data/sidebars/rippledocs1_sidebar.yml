@@ -48,12 +48,15 @@ entries:
     - title: Architectural Overview of QEWDjs
       url: /qewd_architecture.html
       output: web, pdf   
-    - title: QEWD-Ripple SlideSet
+    - title: Ripple-QEWD SlideSet
       url: /qewd-ripple.html
       output: web, pdf
-    - title: Technical Overview of QEWD-Ripple
+    - title: Technical Overview of Ripple-QEWD
       url: /qewd-ripple-explained.html
       output: web, pdf
+    - title: Exploring the Ripple-QEWD APIs
+      url: /qewd-ripple-APIs.html
+      output: web, pdf 
   - title: EtherCIS Data Repository
     output: web, pdf
     folderitems:

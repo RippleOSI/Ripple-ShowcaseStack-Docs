@@ -21,6 +21,9 @@ There are 5 steps to using Swagger
 
 #1 Get api/initialise
 
+{% include image.html file="img/start_Swagger.PNG" alt="Start Swagger" caption="This is the start point" %"}
+
+
 Click Try it Out
 
 Click Execute

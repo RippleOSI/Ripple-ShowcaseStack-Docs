@@ -28,6 +28,8 @@ Get api initialise
 ```
 
 
+{% include image.html file="jekyll.png" url="http://jekyllrb.com" alt="Jekyll" caption="This is a sample caption" %}
+
 Click Try it Out
 
 Click Execute

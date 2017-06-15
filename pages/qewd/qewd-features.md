@@ -20,12 +20,13 @@ NodeJS (Javascript based)
 
 
 Note we are also running from the middleware
--flexible clinical content store    
+
+#flexible clinical content store    
 /qewd-content-store/index.html
 
 username is anything you like, password is the qewd-monitor password which, by default, is keepThisSecret!  - though people should change that in their startup file
 
--JSON mapping tool   
+#JSON mapping tool   
 
 http://178.62.26.29:8080/qewd-transform-json-editor/index.html
 

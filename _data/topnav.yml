@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: Home
-      external_url: http://ripple.foundation/qewd/
+      external_url: http://ripple.foundation
     - title: News
       external_url: http://ripple.foundation/news/
 

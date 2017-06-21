@@ -4,7 +4,7 @@ topnav:
 - title: Topnav
   items:
     - title: Home
-      external_url: http://ripple.foundation/qewd/
+      external_url: http://ripple.foundation
     - title: News
       external_url: http://ripple.foundation/news/
 
@@ -17,7 +17,7 @@ topnav_dropdowns:
         - title: Pulsetile
           external_url: http://ripple.foundation/pulsetile/
         - title: QewdJs
-          external_url: http://ripple.foundation/qewd/#top
+          url: http://ripple.foundation/qewd/#top
         - title: EtherCIS
           external_url: http://ripple.foundation/ethercis/
         - title: Documentation

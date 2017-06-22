@@ -10,7 +10,7 @@ We are using Swagger to expose all the APIs  that is supported by the Ripple-QEW
 
 The Swagger UI is crafted so it is part of the standard install process
 
-The url should be of the style x.x.x.x/swagger-ui/dist/
+The url should be of the style DomainNameOrIPaddress/swagger-ui/dist/
 
 For demo purposes you can currently explore [http://showcase2.ripple.foundation/swagger-ui/dist/](http://showcase2.ripple.foundation/swagger-ui/dist/)
 

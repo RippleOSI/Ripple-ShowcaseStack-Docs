@@ -16,7 +16,7 @@ This is built to address the very common requirements to map data from JSON to J
 
 See slightly older version with some sample data in here
 
-{% include image.html file="/qewd/JSON_TrToolv2.PNG" alt="JSON Mapper" caption="This is a po;ulated view of the QEWD Content Store" %}
+{% include image.html file="/qewd/JSON_TrToolv2.PNG" alt="JSON Mapper" caption="This is a populated view of the QEWD Content Store" %}
 
 
 See the tool in action from here, available in standalone and embedded within QEWD-Ripple

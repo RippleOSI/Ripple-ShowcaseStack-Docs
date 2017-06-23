@@ -1,4 +1,3 @@
-
 ---
 title: QEWD-Ripple: Understanding the Structure
 keywords: QEWD

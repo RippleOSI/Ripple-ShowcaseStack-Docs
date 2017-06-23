@@ -1,5 +1,5 @@
 ---
-title: QEWD-Ripple: Focus on the Content Store
+title: QEWD-Ripple - Focus on the Content Store
 keywords: QEWD
 sidebar: rippledocs1_sidebar
 permalink: qewd_ripple_content_store.html

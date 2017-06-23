@@ -1,5 +1,5 @@
 ---
-title: QEWD-Ripple: Focus on Headings
+title: QEWD-Ripple - Focus on Headings
 keywords: QEWD
 sidebar: rippledocs1_sidebar
 permalink: qewd_ripple_headings.html

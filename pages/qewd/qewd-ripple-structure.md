@@ -1,5 +1,5 @@
 ---
-title: QEWD - Key Features 
+title: QEWD - Ripple - Exploring the Structure
 keywords: QEWD
 sidebar: rippledocs1_sidebar
 permalink: qewd-ripple-structure.html

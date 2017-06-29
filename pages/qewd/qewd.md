@@ -3,6 +3,8 @@ title: About QEWD
 keywords: QEWD
 sidebar: rippledocs1_sidebar
 permalink: qewd.html
+folder: qewd
+filename: qewd.md
 ---
 
 

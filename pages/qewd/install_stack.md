@@ -3,6 +3,9 @@ title: Ripple-QEWD
 keywords: QEWD
 sidebar: rippledocs1_sidebar
 permalink: install_showcase.html
+folder: qewd
+filename: install_stack.md
+
 ---
 Installing Ripple Showcase Stack
 

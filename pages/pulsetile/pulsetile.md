@@ -3,10 +3,9 @@ title: About PulseTile
 keywords: PulseTile
 sidebar: rippledocs1_sidebar
 permalink: pulsetile.html
+folder: pulsetile
+filename: pulsetile.md
 ---
-
-
-
 
 
 **About PulseTile**

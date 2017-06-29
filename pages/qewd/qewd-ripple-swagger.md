@@ -3,6 +3,8 @@ title:  Ripple-QEWD Swagger APIs
 keywords: QEWD
 sidebar: rippledocs1_sidebar
 permalink: qewd-ripple-APIs.html
+folder: qewd
+filename: qewd-ripple-swagger.md
 ---
 
 

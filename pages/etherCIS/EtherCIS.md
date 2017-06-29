@@ -3,6 +3,8 @@ title: About EtherCIS
 keywords: EtherCIS
 sidebar: rippledocs1_sidebar
 permalink: etherCIS.html
+folder: etherCIS
+filename: EtherCIS.md
 ---
 
 

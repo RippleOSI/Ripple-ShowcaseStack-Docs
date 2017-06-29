@@ -3,6 +3,8 @@ title: Ripple Showcase Stack - FAQ
 keywords: FAQ
 sidebar: rippledocs1_sidebar
 permalink: FAQ.html
+folder: 
+filename: FAQ.md
 ---
 
 

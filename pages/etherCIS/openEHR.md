@@ -3,6 +3,8 @@ title: About openEHR
 keywords: openEHR
 sidebar: rippledocs1_sidebar
 permalink: openEHR.html
+folder: etherCIS
+filename: openEHR.md
 ---
 
 

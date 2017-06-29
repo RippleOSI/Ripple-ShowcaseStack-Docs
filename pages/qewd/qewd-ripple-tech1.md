@@ -3,6 +3,8 @@ title:  Explaining Ripple-QEWD
 keywords: QEWD
 sidebar: rippledocs1_sidebar
 permalink: qewd-ripple-explained.html
+folder: qewd
+filename: qewd-ripple-tech1.md
 ---
 
 

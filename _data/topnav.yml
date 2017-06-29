@@ -20,7 +20,7 @@ topnav_dropdowns:
           url: http://ripple.foundation/qewd/#top
         - title: EtherCIS
           external_url: http://ripple.foundation/ethercis/
-        - title: Documentation
+        - title: Showcase Documentation
           url: /
           
 contact:

@@ -54,9 +54,21 @@ entries:
     - title: Technical Overview of Ripple-QEWD
       url: /qewd-ripple-explained.html
       output: web, pdf
+    - title: Understanding the structure of Ripple-QEWD
+      url: /qewd-ripple-structure.html
+      output: web, pdf 
     - title: Exploring the Ripple-QEWD APIs
       url: /qewd-ripple-APIs.html
       output: web, pdf 
+    - title: Focus on QEWD-Ripple Headings
+      url: /qewd_ripple_headings.html
+      output: web, pdf 
+    - title: Exploring the QEWD JSON Mapper
+      url: /qewd_json_mapper.html
+      output: web, pdf 
+    - title: Exploring the QEWD-Ripple Content Store
+      url: /qewd_ripple_content_store.html
+      output: web, pdf       
   - title: EtherCIS Data Repository
     output: web, pdf
     folderitems:

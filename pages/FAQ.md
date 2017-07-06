@@ -10,7 +10,7 @@ filename: FAQ.md
 
 
 
-##Frequently Asked Questions
+## Frequently Asked Questions
 
 Why is it open source?
 - Unconstrained innovation – ideas and ambitions can be shared by folk who are oceans apart

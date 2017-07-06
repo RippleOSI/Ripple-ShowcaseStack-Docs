@@ -25,4 +25,4 @@ Where can I find out more about the Ripple Foundation
 - See the [Ripple Foundation website here](http://ripple.foundation/)
 
 Where can I ask a question or raise an issue?
-- [Please ask a question or raise an issue here.](https://github.com/RippleOSI/Ripple-ShowcaseStack-Docs/issues) 
+- [Please ask a question or raise an issue here.](https://github.com/RippleOSI/Ripple-ShowcaseStack-Docs/issues)  or [Contact Us here](http://ripple.foundation/#contact)

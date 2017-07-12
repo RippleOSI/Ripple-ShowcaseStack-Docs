@@ -9,7 +9,7 @@ filename: install_stack.md
 ---
 Installing Ripple Showcase Stack
 
-The [Ripple QEWD installer for our showcase stack is available here on Github](https://github.com/RippleOSI/Qewd-Ripple/blob/master/README.md) 
+The [QEWD based installer for our showcase stack is available here on Github](https://github.com/RippleOSI/Ripple-Qewd/blob/master/README.md) 
 you can be live in less than 15 minutes
 
 

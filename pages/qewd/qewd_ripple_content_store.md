@@ -3,6 +3,8 @@ title: QEWD-Ripple - Focus on the Content Store
 keywords: QEWD
 sidebar: rippledocs1_sidebar
 permalink: qewd_ripple_content_store.html
+folder: qewd
+filename: qewd_ripple_content_store.md
 ---
 
 
@@ -17,3 +19,10 @@ This is built as a bridge between the free text narrative of patient records and
 See the tool in action from here
 
 baseurl /qewd-content-store/index.html
+
+e.g. in our showcase stack demo that is;
+
+http://showcase.ripple.foundation/qewd-content-store/index.html
+
+To login the UserName can be anything u like
+The default password is keepThisSecret!

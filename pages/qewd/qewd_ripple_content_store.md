@@ -24,5 +24,6 @@ e.g. in our showcase stack demo that is;
 
 http://showcase.ripple.foundation/qewd-content-store/index.html
 
-To login the UserName can be anything u like
+To login the UserName can be anything you like
+
 The default password is keepThisSecret!

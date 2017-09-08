@@ -24,6 +24,8 @@ e.g. in our showcase stack demo that is;
 
 [http://showcase.ripple.foundation/qewd-content-store/index.html](http://showcase.ripple.foundation/qewd-content-store/index.html)
 
-To login the UserName can be anything you like
+To login details;
 
-The default password is keepThisSecret!
+UserName = can be anything you like e.g. John
+
+Password (default)  = keepThisSecret!

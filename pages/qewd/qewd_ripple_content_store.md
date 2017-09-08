@@ -22,7 +22,7 @@ baseurl /qewd-content-store/index.html
 
 e.g. in our showcase stack demo that is;
 
-http://showcase.ripple.foundation/qewd-content-store/index.html
+[http://showcase.ripple.foundation/qewd-content-store/index.html](http://showcase.ripple.foundation/qewd-content-store/index.html)
 
 To login the UserName can be anything you like
 

@@ -113,5 +113,5 @@ Furthermore, the Ripple Foundation has supported QEWD.js development work to cre
 
 As a result, by using QEWD.js as the basis of its middle tier, Ripple is uniquely positioned to easily integrate with the most important and most common database technologies that are found in typical healthcare enterprises.
 
-You can explore Qewd-Ripple in more depth by visiting the ([https://github.com/RippleOSI/Ripple-Qewd])(Qewd-Ripple repo on Github) 
+You can explore Qewd-Ripple in more depth by visiting the [https://github.com/RippleOSI/Ripple-Qewd](Qewd-Ripple repo on Github) 
 

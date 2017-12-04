@@ -11,4 +11,4 @@ filename: index.md
 
 ## Exploring the Ripple Showcase Stack
 
-This documentation is aimed to support you in exploring and understand the Ripple Foundations open source platform showcase 
+This documentation is aimed to support you in exploring and understand the Ripple Foundations open source platform showcase. To get a sense of the look , feel and scope of the showcase stack , check out our [online showcase stack demonstrator available from our homepage](http://ripple.foundation/)

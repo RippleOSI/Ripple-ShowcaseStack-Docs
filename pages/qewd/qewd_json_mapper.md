@@ -19,11 +19,11 @@ See slightly older version with some sample data in here
 {% include image.html file="/qewd/JSON_TrToolv2.PNG" alt="JSON Mapper" caption="This is a populated view of the QEWD Content Store" %}
 
 
-See the tool in action from here, 
-http://dev.ripple.foundation/json-editor/
+See the tool in action from here,  
+[http://dev.ripple.foundation/json-editor](http://dev.ripple.foundation/json-editor)
 
-available in standalone and online versions
-https://github.com/robtweed/qewd-transform-json-editor
+available in standalone and online versions   
+[https://github.com/robtweed/qewd-transform-json-editor](https://github.com/robtweed/qewd-transform-json-editor)
 
 
 

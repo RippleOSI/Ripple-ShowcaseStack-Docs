@@ -1,5 +1,5 @@
 ---
-title: QEWD-Ripple - Focus on the Content Store
+title: QEWD-Ripple - Focus on the JSON Mapper
 keywords: QEWD
 sidebar: rippledocs1_sidebar
 permalink: qewd_json_mapper.html

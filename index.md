@@ -18,13 +18,18 @@ This stack is leveraging the 3 key open source projects that we support (PulseTi
 
 The minimal functionality that needs to be in this Showcase Stack includes;
 
+* Basic Authentication & Role Based Access Controls
+
 * Welcome /Landing Page
+
 * Patient Search
 * Master Patient Index - add /edit patients & basic demographics
+
 * Basic Charts/Intelligence View - look at patients by age/location etc
+
 * Information Governance Control- check for Legitimate Relationship etc
 
-* Multi Patient List
+* Multi Patient List - to manage groups of patients (ward list, clinic list etc)
 
 * Single Patient List
   * Problems
@@ -42,7 +47,13 @@ The minimal functionality that needs to be in this Showcase Stack includes;
   
   
 * Integration Capabilities 
-  * JSON to JSON transformation
+  * JSON to JSON transformation (eg UI/FHIR/openEHR JSON interchange)
+  * FHIR handling capabilities
+  
+* Data Repository Capabilities
+ * Store Structured Data (inc openEHR compliant)
+   * Need to be able to load openEHR templates and use AQL to query data
+ * Store Unstructured Data
   
   
 
